@@ -10,7 +10,7 @@ Reprapfirmware,Marlin2.0,Klipper
 
 1.You can check the manual in this github, reprapfirmware folder
 
-2.You can visithttps://github.com/gloomyandy/RepRapFirmware/wiki/Fly-407ZG-Wifi
+2.You can visit https://github.com/gloomyandy/RepRapFirmware/wiki/Fly-407ZG-Wifi
 
 # How to configure and use this motherboard in Marlin?
 1.modify platformio.ini file
